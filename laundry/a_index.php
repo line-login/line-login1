@@ -5,7 +5,7 @@
     <?php include("db.php"); ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>洗衣店</title>
+    <title>洗衣店登入</title>
     <style>
         .container {
             flex: 1;
